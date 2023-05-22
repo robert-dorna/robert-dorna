@@ -6,7 +6,7 @@ As you can guess from that, I'm also usually quiet (for the better of all of us 
 
 GitHub is the only social media platform where I'm registered.
 
-I also believe in actions over words, so there is not much more to say, and I already said too much. It's counterproductive to do many things at once, so I don't care much right now about anything else other than learning and working in healthcare (alternatively, improving AI, crypto, and IoT is also satisfying). Therefore, if you want to include me in some healthcare (or crypto or IoT (no experience with AI)) related project and are in doubt if I'm interested, the answer in most cases is yes [1], and here is my [bozo](https://apple.fandom.com/wiki/Bozo) [CV](Robert_Dorna_CV.pdf) 🫡 (Btw, I'm trash at coding and slow).
+I also believe in actions over words, so there is not much more to say, and I already said too much. It's counterproductive to do many things at once, so I don't care much right now about anything else other than learning and working in healthcare (alternatively, improving AI, crypto, and IoT is also satisfying). Therefore, if you want to include me in some healthcare (or crypto or IoT (no experience with AI)) related project and are in doubt if I'm interested, the answer in most cases is yes [1], and here is my [CV](Robert_Dorna_CV.pdf) 🫡.
 
 [1] - no if: [Bodypace](https://bodypace.org) is a competition to you; your product is not open source; I would not be allowed to continue Bodypace work; my salary won't be really high (four conditions have to be true at once for me to decline the offer: I really want to work in healthcare, and Bodypace is a learning experience for me, but at the same time I strongly desire to live in the world where a solution similar to Bodypace exists).
 
