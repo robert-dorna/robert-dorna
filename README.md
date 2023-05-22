@@ -1,6 +1,6 @@
 ### Hi there, I'm Robert 👋
 
-I believe in determinism (uncommon and tricky to introduce yourself in such a way, I know), and I'm a minimalist who thinks every required solution will exist and, while being functional, should be evolved into its most simple and elegant form allowed by given "effectiveness requirements". I believe in this sh\*t like it's some sort of mathematical and physical truth valid across the entire universe (maybe with a grain of salt, as I typed it all in one go without deeper thinking). It's pretty weird, I know, but yes, I honestly do walk around normal people thinking about things such as that often 😅.
+I believe in determinism (uncommon and tricky to introduce yourself in such a way, I know), and I'm a minimalist who thinks every required solution will exist and, while being functional, should be evolved into its most simple and elegant form allowed by given "effectiveness requirements". It's pretty weird, I know, but yes, I honestly do walk around normal people thinking about things such as that often 😅.
 
 As you can guess from that, I'm also usually quiet (for the better of all of us 🤝).
 
