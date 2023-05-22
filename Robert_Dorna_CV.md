@@ -2,9 +2,9 @@
 
 > rdorna8@gmail.com | **+48 509 980 130** | https://github.com/robert-dorna | no other SM
 
-I'm a minimalist (who can pack all his belongings into one backpack), self-motivated, and self-taught problem solver mainly interested in healthcare, philosophy, and software architecture<br/>(I love things such as Gall's Law and https://minifesto.org). Programming is my everyday hobby.
+I'm a minimalist (who can pack all his belongings into one backpack), self-disciplined, and self-taught problem solver mainly interested in healthcare, philosophy, and software architecture<br/>(I love things such as Gall's Law and https://minifesto.org). Programming is my everyday hobby.
 
-I'm primarily a `C++` and `React` developer (my main two technologies). Bold below means<br/>that I was fluent or confident with a given tool; everything else I used and learned on the go.   
+I'm primarily a `C++` and `React` developer. Bold below means that I was fluent or confident with a given tool; everything else I used and learned on the go.   
 
 ### Experience
 
