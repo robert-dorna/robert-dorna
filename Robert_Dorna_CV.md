@@ -18,7 +18,7 @@ I'm primarily a `C++` and `React` developer. Below, I list all the technologies 
 
 - **Intive `12 months`**: *Mobile, Frontend & Embedded* (I left because of burnout)
   
-  **`JavaScript`** **`TypeScript`** **`React`** `RN` `Redux` `Redux Saga` `Styled Components` `Styled System` `GraphQL` `Storybook` `Formik` `AWS Lambda` `BrightScript` **`git`** **`Agile`** **`Scrum`**
+  **`JavaScript`** **`TypeScript`** **`React`** `React Native` `Redux + Saga` `Styled Components` `Styled System` `GraphQL` `Storybook` `Formik` `AWS Lambda` **`git`** **`Agile`** **`Scrum`**
 
 - **ESET `13 months`**: *Junior C++ Backend* (Great team and product, I left to try new things)
   
