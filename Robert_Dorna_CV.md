@@ -1,31 +1,37 @@
 # Robert Dorna
 
-> rdorna8@gmail.com | **+48 509 980 130** | https://github.com/robert-dorna
+rdorna8@gmail.com | **+48 509 980 130** | https://robert-dorna.github.io (no trackers)
 
-Hi! I'm Robert. I'm a big technology fan and try to learn everything software-related. Besides that I'm into chess, books, philosophy, and cooking. Programming is my everyday hobby.
+### About me
 
-I'm primarily a `C++` and `React` developer. Below, I list all the technologies that I used. Bold means that I was already fluent with a given tool (or very similar); everything else I used and learned on the go.   
+A human that can talk to machines (wizardry, I know :D). I can code well and have strong analytical skills, plus I can talk non-stop about the latest technologies and ideas for product improvements. You can learn more about me on my website, but it's pretty typical and straight-forward: loves coding, does it in his free time, has a hobby that includes physical activity to counter long sitting hours, does something farming-related and periodically idealizes farm work. I'm a self-taught coder (dropout from Robotics), addicted to books, official guides, and manuals.
+
+### Skills
+
+- Mid: **C++17**, **OOP**, **Software Architecture**, **RESTful**, **git** 
+- Mid/Junior: **GCC/Clang toolchains**, **Javascript**, **React**, **SQLite**, **MySQL**, **TDD**, **Linux**, 
+- Junior: **Typescript**, **Python**, **GraphQL**, **Expo**, **React Native**, **Svelte**, **FeathersJS**, **Figma**, **Docker**, **Nix**, **Flask**, **Google Cloud**, **Azure**, **Kubernetes**, **CI/CD**, **Redis**
 
 ### Experience
 
-- **Tangler**: https://github.com/robert-dorna/Tangler
-  
-  **`JavaScript`** `Svelte` `SvelteKit` `HTML` `CSS` `Docker` `Docker Compose` **`Python`** `Flask` `CORS` `Kubernetes` `Nginx` `GCP` `GKE` `gcloud cli` **`git`**
+**2 years of commercial experience** and a few more of doing hobby projects and tournaments. 
 
-- **Bodypace**: https://bodypace.org/app & https://github.com/Bodypace/Mobile
-  
-  **`JavaScript`** `React Native` **`Expo`** *`Apollo GraphQL`* ***`Formik`*** *`lodash`* **`moment`** ***`Yup`*** *`Azure: Secrets, CDN, SQL, Webapp` `Bitbucket pipelines`* *`NodeJS`* *`FeathersJS`* *`Express.js`* ***`SQLite`*** ***`Mocha`*** *`Docker`* ***`MySQL`*** ***`Sequelize`*** *`Redis`* **`ChatGPT (legal documents)`** **`GH Pages`** **`git`** **`Figma`** `UML` *`AxiosHTTP`* *`HelmetJS`* *`Winston`* *`dotenv`* *`Socket.IO`* **`Google Play Console`** (Server *(tools written in italic)* is awaiting revitalization)
+08.2021 - 09.2022 : **Intive** : Mid Embedded & Junior Mobile Developer : *codebase maintainer*
 
-- **Intive `12 months`**: *Mobile, Frontend & Embedded* (I left because of burnout)
-  
-  **`JavaScript`** **`TypeScript`** **`React`** `React Native` `Redux + Saga` `Styled Components` `Styled System` `GraphQL` `Storybook` `Formik` `AWS Lambda` **`git`** **`Agile`** **`Scrum`**
+    Maintained an old codebase, fixed a few bugs, added a few minor features.
 
-- **ESET `13 months`**: *Junior C++ Backend* (Great team and product, I left to try new things)
-  
-  **`C++17`** `T-SQL` **`MySQL`** `REST` `JavaScript` `React` `Bootstrap` **`Sass`** `LevelDB` `WinAPI` **`VMWare`** `Docker` **`Python`** **`Visual Studio`** **`git`** `Agile` `Scrum`
+12.2019 - 01.2021 : **ESET** : Junior C++ Backend Engineer : *EDR On-premise platform*
 
-- **POLSL `1 semester & during HS`**: *Computer Science & Internship & Junior C++* <br/>
-  **Priced national innovation tournaments `during High School`**: 1st or podium <br/>
-  **My own side projects for fun and learning** <br/>
-  
-    `C++11` `Lua` `Nix` `OpenCV` `OpenGL` `GSL` `cmake` `meson` `googletest` `googlemock` `Qt5` `boost` `jupyter` `pandas` `numpy` `scikit`  `arduino` `blender` `love2d` `django` `java` `spring` `hibernate` `tomcat` `Haskell` `...` (rn with most I'm only familiar, junior in few)
+    Learned Scrum and Agile, sometimes implemented more important features but mostly minor ones, fixed many bugs,
+    wrote good clean code with minimal supervision, followed TDD, refactored old tests, proposed a few improvements 
+    and implemented those that got accepted.  
+
+03.2017 - 04.2017 : **POLSL Incubator** : Intern C++ Qt Engineer : *2D & 3D data processing*
+
+Extra: my note-worthy open-source projects that I develop in my free time:
+
+- **Bodypace** : React Native/Expo Mobile & NodeJS Backend Developer (and a bit more)
+  https://bodypace.org | https://github.com/Bodypace | [Google Play Store](https://play.google.com/store/apps/details?id=com.bodypace.mobileapp)
+
+- **Tangler** : Svelte Frontend & Flask Python Backend Developer (and some UI + DevOps)
+  https://tangler.space | https://github.com/robert-dorna/Tangler
