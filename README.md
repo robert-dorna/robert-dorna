@@ -9,7 +9,7 @@ You can get to know me better by checking ouy my website https://robert-dorna.gi
 
 Besides that, here goes the classical GitHub introduction:
 
-- 🔭 I’m currently working on: my hobby pet projects, Tangler and Bodypace (scroll below to see them)
+- 🔭 I’m currently working on: my hobby pet projects, Tangler and Bodypace (scroll down to see them)
 - 🌱 I’m currently learning: Software architecture, moar frameworks, advanced guides/reference manuals of my fav tools
 - 👯 I’m looking to collaborate on: Writing cool software, mine or yours (mostly interested in Healthtech, IoT, Crypto & ML)
 - 🤔 I’m looking for help with: Learning latest best programming practices
